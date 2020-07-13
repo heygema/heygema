@@ -2,8 +2,13 @@
 
 (as if bio is not enough!)
 
+
 🔭 I’m currently working on JavaScript as my day job and hobbies.
+
+
 📫 How to reach me: send me letter via my personal email to gema@posteo.de
+
+
 😄 Pronouns: He/Him
 <!--
 **heygema/heygema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
