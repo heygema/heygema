@@ -1,15 +1,20 @@
-### Hi there 👋
-
-(as if bio is not enough!)
 
 
-🔭 I’m currently working on JavaScript as my day job and hobbies.
+<h1 align="center">Hi there 👋</h1>
 
+<p align="center">
+  as if bio is not enough
+</p>
+<p align="center">
+  🔭 I’m currently working on JavaScript as my day job and hobbies.
+</p>
+<p align="center">
+  📫 How to reach me: send me letter via my personal email to gema@posteo.de
+</p>
+<p align="center">
+  😄 Pronouns: He/Him
+</p>
 
-📫 How to reach me: send me letter via my personal email to gema@posteo.de
-
-
-😄 Pronouns: He/Him
 <!--
 **heygema/heygema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
