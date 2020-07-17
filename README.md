@@ -9,7 +9,7 @@
   🔭 I’m currently working on JavaScript as my day job and hobbies.
 </p>
 <p align="center">
-  📫 How to reach me: send me letter via my personal email to gema@posteo.de
+  📫 Feel free to send me a letter to <a href="mailto:gema@posteo.de">gema@posteo.de</a>
 </p>
 <p align="center">
   😄 Pronouns: He/Him
