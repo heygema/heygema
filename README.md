@@ -6,15 +6,19 @@
   as if bio is not enough
 </p>
 <p align="center">
-  🔭 I’m currently working on JavaScript as my day job and hobbies.
+  🔭 I’m currently working with JavaScript as my day job and hobbies.
 </p>
 <p align="center">
-  📫 Feel free to send me a letter: <a href="mailto:gema@posteo.de">gema@posteo.de</a>
+  📫 Feel free to send me a letter: <a href="mailto:gema@posteo.de">gema@posteo.de</a> <br> <a href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>
 </p>
+
 <p align="center">
   😄 Pronouns: He/Him
 </p>
 
+<p align="center">
+  <img align="center" style="display: block; margin: auto;" alt="photo;align: center;" src="https://24.media.tumblr.com/tumblr_lj7m023ybE1qcyka5o1_500.gif">
+</p>
 <!--
 **heygema/heygema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
