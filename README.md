@@ -1,10 +1,5 @@
-
-
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-  as if bio is not enough
-</p>
 <p align="center">
   🔭 I’m currently working with JavaScript as my day job and hobbies.
 </p>
