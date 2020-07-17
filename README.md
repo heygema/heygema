@@ -9,7 +9,7 @@
   🔭 I’m currently working with JavaScript as my day job and hobbies.
 </p>
 <p align="center">
-  📫 Feel free to send me a letter: <a href="mailto:gema@posteo.de">gema@posteo.de</a> <br> <a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>
+  📫 Feel free to send me a letter: <a href="mailto:gema@posteo.de">gema@posteo.de</a> <br> <a target="blank_" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>
 </p>
 
 <p align="center">
