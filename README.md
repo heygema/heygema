@@ -1,7 +1,8 @@
 <h1 align="center">Hello World, 👋</h1>
 
 <p align="center">
-   🔭 I’m mostly working with JavaScript and its ecosystem.
+   🔭 I’m mostly working with JavaScript and its ecosystem. <br>
+      My background is from web and mobile apps development.
 </p>
 <p align="center">
   📫 Feel free to send me a letter: <a href="mailto:gema@posteo.de">gema@posteo.de</a> <br> <a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>
