@@ -14,6 +14,14 @@
 <p align="center">
   <img align="center" style="display: block; margin: auto;" alt="photo;align: center;" src="https://24.media.tumblr.com/tumblr_lj7m023ybE1qcyka5o1_500.gif">
 </p>
+
+<p align="center">
+  <img align="center" style="display: block; margin: auto;" alt="photo;align: center;" src="https://www.delta.edu/_resources/images/planetarium/astronomy-001.jpg">
+</p>
+
+<p align="center">
+  <img align="center" style="display: block; margin: auto;" alt="photo;align: center;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_spinner_dolphin_in_the_Red_Sea.jpg/1920px-A_spinner_dolphin_in_the_Red_Sea.jpg">
+</p>
 <!--
 **heygema/heygema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
