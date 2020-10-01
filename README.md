@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello World, 👋</h1>
 
 <p align="center">
   🔭 I’m currently working with JavaScript for my day job and part of my hobbies.
