@@ -1,4 +1,7 @@
-<h1 align="center">Hello World, 👋</h1>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heygema&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">👋</h1>
 
 <p align="center">
    🔭 I’m mostly working with JavaScript and its ecosystem. <br>
@@ -12,6 +15,8 @@
   🍷 Pronouns: He/Him
 </p>
 
+
+
 <p align="center">
   <img align="center" style="display: block; margin: auto;" alt="photo;align: center;" src="https://24.media.tumblr.com/tumblr_lj7m023ybE1qcyka5o1_500.gif">
 </p>
@@ -23,6 +28,7 @@
 <p align="center">
   <img align="center" style="display: block; margin: auto;" alt="photo;align: center;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_spinner_dolphin_in_the_Red_Sea.jpg/1920px-A_spinner_dolphin_in_the_Red_Sea.jpg">
 </p>
+
 <!--
 **heygema/heygema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
