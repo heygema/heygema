@@ -1,7 +1,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heygema&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<h1 align="center">👋</h1>
+<h1 align="center">👋, I'm Gema</h1>
 
 <p align="center">
    🔭 I’m mostly working with JavaScript and its ecosystem. <br>
