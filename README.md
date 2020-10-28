@@ -8,7 +8,7 @@
       My background is from web and mobile apps development.
 </p>
 <p align="center">
-  📫 Feel free to send me a letter: <a href="mailto:gema@posteo.de">gema@posteo.net</a> <br> <a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>
+  📫 to reach me: <a href="mailto:gema@posteo.de">gema@posteo.net</a> <br> <a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>
 </p>
 
 <p align="center">
