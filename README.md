@@ -1,16 +1,16 @@
 
-<h1 align="center">👋 I'm Gema</h1>
+<h1 align="left">👋 I'm Gema</h1>
 
-<p align="center">
+<p align="left">
   🍷 Pronouns: He/Him
 </p>
 
-<p align="center">
+<p align="left">
    🔭 I'm a Software Engineer who works on fullstack development. <br>
      I love doing websites and mobile apps, particularly with React & React Native experience. <br>
-     I use nodejs to get most things done on the server-side.
+     To get most things done on the server-side, I'd like to work on NodeJS.
 </p>
-<p align="center">
+<p align="left">
  - 📫 to reach me: <a href="mailto:gema@posteo.de">gema@posteo.net</a> (<a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>) <br>
  - 🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a>
 </p>
