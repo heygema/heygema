@@ -8,7 +8,7 @@
 <p align="center">
    🔭 I'm a Software Engineer who works on fullstack development. <br>
      I love doing websites and mobile apps, particularly with React & React Native experience. <br>
-     I use nodejs to get most things done on the server-side. Python as a tool for every need.
+     I use nodejs to get most things done on the server-side.
 </p>
 <p align="center">
  - 📫 to reach me: <a href="mailto:gema@posteo.de">gema@posteo.net</a> <br> <a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a> <br>
