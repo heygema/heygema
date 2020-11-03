@@ -1,12 +1,9 @@
 
-<h1>👋 I'm Gema</h1>
+<h1 align="center">👋 I'm Gema</h1>
 
-<p>
+<p align="center">
   🍷 Pronouns: He/Him
 </p>
-
-[![Linkedin: heygema](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heygema/)
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heygema)
 
 <p align="center">
    🔭 I’m mostly working with JavaScript and its ecosystem. <br>
@@ -22,6 +19,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heygema&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Linkedin: heygema](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heygema/)
+[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heygema)
+[![reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/heygema)
 
 <!--
 
