@@ -6,12 +6,13 @@
 </p>
 
 <p align="center">
-   🔭 I’m mostly working with JavaScript and its ecosystem. <br>
-      My background is from web and mobile apps development.
+   🔭 I'm a Software Engineer who works on fullstack development. <br>
+     I love doing websites and mobile apps, particularly with React & React Native experience. <br>
+     I use nodejs to get most things done on the server-side. Python as a tool for every need.
 </p>
 <p align="center">
  - 📫 to reach me: <a href="mailto:gema@posteo.de">gema@posteo.net</a> <br> <a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a> <br>
- - website: <a href="https://gema.monster" target="_blank">gema.monster</a>
+ - 🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a>
 </p>
 
 
