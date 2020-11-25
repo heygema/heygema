@@ -11,7 +11,7 @@
 <p align="left">
    🔭 I'm a Software Engineer who likes to work on either backend/frontend(fullstack). <br>
      I love doing websites and mobile apps, particularly with React & React Native. <br>
-     I'd like to work on NodeJS on the server-side.
+     I'd like to work with NodeJS on the server-side.
 </p>
 
 __TLDR; JS is 🔥__
