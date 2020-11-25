@@ -8,11 +8,11 @@
   🍷 Pronouns: He/Him
 </p>
 
->🔭 I'm a Software Engineer who likes to work on either backend/frontend(fullstack). <br>
-     I love doing websites and mobile apps, particularly with React & React Native. <br>
-     I'd like to work with NodeJS on the server-side.
+🔭 I'm a Software Engineer who likes to work on either backend/frontend(fullstack). <br>
+     I love doing websites and mobile apps, particularly with __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
+     I'd like to work with __[NodeJS](https://nodejs.org/)__ on the server-side.
 
-__TLDR; JS is 🔥__
+___TLDR; JS is 🔥___
 
 <p align="left">
  📫 to reach me: <a href="mailto:gema@posteo.de">gema@posteo.net</a> (<a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>) <br>
