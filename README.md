@@ -1,5 +1,5 @@
 
-<h1 align="left">👋 I'm Gema </h1>
+# <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="30px" />Hi I'm Gema
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heygema&show_icons=true&theme=radical)
 
