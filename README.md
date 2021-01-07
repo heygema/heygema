@@ -8,7 +8,7 @@
   🍷 Pronouns: He/Him
 </p>
 
-🔭 I'm a Software Engineer who likes to work on either backend/frontend *(fullstack)*. <br>
+🔭 I'm a Software Engineer who likes to work on either backend/frontend <br>
      I love doing websites and mobile apps, particularly with __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
      I'd like to work with __[NodeJS](https://nodejs.org/)__ on the server-side.
 
