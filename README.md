@@ -12,7 +12,7 @@
      I love doing websites and mobile apps, particularly with __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
      I'd like to work with __[NodeJS](https://nodejs.org/)__ on the server-side.
 
-___TLDR; JS is 🔥___
+___TL;DR JS is 🔥___
 
 <p align="left">
  📫 to reach me: <a href="mailto:gema@posteo.de">gema@posteo.net</a> (<a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>) <br>
