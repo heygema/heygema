@@ -8,8 +8,6 @@
   🍷 Pronouns: He/Him
 </p>
 
-While the above and below statuses aren't meant to brag. They're just statuses.
-
 🔭 I'm a Software Engineer who likes to work on either backend/frontend <br>
      I love doing websites and mobile apps, particularly with __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
      I'd like to work with __[NodeJS](https://nodejs.org/)__ on the server-side.
