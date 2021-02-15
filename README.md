@@ -12,7 +12,7 @@ ___tl;dr JS is 🔥___ **(Inevitably TypeScript)**
      I'd like to work with __[NodeJS](https://nodejs.org/)__ on the server-side.
 
 <p align="left">
- 📫 to reach me: <a href="mailto:gema@posteo.de">gema@posteo.net</a> (<a target="_blank" href="https://keybase.io/heygema/pgp_keys.asc?fingerprint=991473828ac57d74b0af3d9e9c6b9d20a3147142">PUBLIC KEY</a>) <br>
+ 📫 to reach me: <a href="mailto:heygema@yandex.com">heygema@yandex.com</a> <br>
  🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a>
 </p>
 
