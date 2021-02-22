@@ -19,6 +19,8 @@ ___tl;dr JS is 🔥___ **(Inevitably TypeScript)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=heygema&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heygema&show_icons=true&theme=radical) -->
 
 [![Linkedin: heygema](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heygema/)
