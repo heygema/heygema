@@ -14,6 +14,8 @@ ___tl;dr JS is 🔥___ **(Inevitably Compile-To-Js lah)**
 <p align="left">
  📫 to reach me: <a href="mailto:heygema@yandex.com">heygema@yandex.com</a> <br>
  🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a>
+ 💰 <a href="https://harmony.one" target="_blank">Harmony:</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm
+ 💰 <a href="https://ethereum.org" target="_blank">Ethereum:</a>: 0xa57e31BA99a010BbafE08F58E46a520bc9fF82E4
 </p>
 
 
