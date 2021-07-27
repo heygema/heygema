@@ -15,9 +15,7 @@ ___tl;dr JS is 🔥___ **(Compile-To-Js)**
  📫 to reach me: <a href="mailto:heygema@yandex.com">heygema@yandex.com</a> <br>
  🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a> <br>
  💰 <a href="https://harmony.one" target="_blank">Harmony:</a> one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>
- 💰 <a href="https://ethereum.org" target="_blank">Ethereum:</a> 0xa57e31BA99a010BbafE08F58E46a520bc9fF82E4 <br>
- 💰 <a href="https://cardano.org" target="_blank">Cardano:</a> addr1qyg59kk8ejtq5x0srngk839fh0g8he0hedthq46ctnznp57hzhdl8xgsqkcr22cqrksatuxjanukusfvwq5fvlnl5a0qypzrga
-</p>
+ </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
