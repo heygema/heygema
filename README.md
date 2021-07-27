@@ -5,7 +5,7 @@
   🍷 Pronouns: He/Him
 </p>
 
-___tl;dr JS is 🔥___ **(Inevitably Compile-To-Js lah)**
+___tl;dr JS is 🔥___ **(Compile-To-Js)**
 
 🔭 I'm a Software Engineer/Programmer who likes to work on either backend/frontend <br>
      I love doing websites and mobile apps, particularly with __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
