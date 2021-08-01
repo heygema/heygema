@@ -7,8 +7,8 @@
 
 ___tl;dr JS is 🔥___ **(Compile-To-Js)**
 
-🔭 I'm a Software Engineer/Programmer who likes to work on either backend/frontend <br>
-     I love doing websites and mobile apps, particularly with __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
+🔭 I'm doing Software Engineering/Programming, and like to work on things __[TypeScript](https://www.typescriptlang.org/)__<br>
+     with __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
      I'd like to work with __[NodeJS](https://nodejs.org/)__ on the server-side.
 
 <p align="left">
