@@ -8,8 +8,7 @@
 ___tl;dr JS is 🔥___ **(Compile-To-Js)**
 
 🔭 I'm doing Software Engineering/Programming, and like to work on things<br>
-     with  __[TypeScript](https://www.typescriptlang.org/)__, __[React](https://reactjs.org/)__ & __[React Native](https://reactnative.dev/).__ <br>
-     I'd like to work with __[NodeJS](https://nodejs.org/)__ on the server-side.
+     with  __[TypeScript](https://www.typescriptlang.org/)__, __[React](https://reactjs.org/)__, __[React Native](https://reactnative.dev/).__ <br>, and __[NodeJS](https://nodejs.org/)__ on the server-side.
 
 <p align="left">
  📫 to reach me: <a href="mailto:heygema@yandex.com">heygema@yandex.com</a> <br>
