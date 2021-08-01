@@ -13,7 +13,7 @@ ___tl;dr JS is 🔥___ **(Compile-To-Js)**
 <p align="left">
  📫 to reach me: <a href="mailto:heygema@yandex.com">heygema@yandex.com</a> <br>
  🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a> <br>
- 💰 I accept tokens on <a href="https://harmony.one" target="_blank">Harmony:</a> one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>
+ 💰 I accept tokens on <a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>
  </p>
 
 
