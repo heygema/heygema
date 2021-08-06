@@ -11,7 +11,7 @@ ___tl;dr JS is 🔥___ **(Compile-To-Js)**
      with  __[TypeScript](https://www.typescriptlang.org/)__, __[React](https://reactjs.org/)__, __[React Native](https://reactnative.dev/)__, and __[NodeJS](https://nodejs.org/)__.
 
 <p align="left">
- 📫 to reach me: <a href="mailto:heygema@yandex.com">heygema@pm.me</a> <br>
+ 📫 to reach me: <a href="mailto:heygema@pm.me">heygema@pm.me</a> <br>
  🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a> <br>
  💰 I accept tokens on <a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>
  </p>
