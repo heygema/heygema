@@ -21,11 +21,6 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<br />
-
-[Get Badges Here](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-
-
 <p align="left">
  📫 to reach me: <a href="mailto:heygema@pm.me">heygema@pm.me</a> <br>
  🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a> <br>
@@ -46,6 +41,13 @@
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heygema)
 [![reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/heygema)
 [![rss](https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://gema.monster/rss)
+
+
+PS:
+<br />
+[Get Badges Here](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+
 
 <!--
 
