@@ -9,6 +9,22 @@
 
 🔭 I'm doing Software Engineering/Programming, and like to work on things<br>
      with  __[TypeScript](https://www.typescriptlang.org/)__, __[React](https://reactjs.org/)__, __[React Native](https://reactnative.dev/)__, and __[NodeJS](https://nodejs.org/)__.
+     
+![javavscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+<br />
+
+[Get Badges Here](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
 
 <p align="left">
  📫 to reach me: <a href="mailto:heygema@pm.me">heygema@pm.me</a> <br>
@@ -17,12 +33,14 @@
  </p>
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=heygema&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heygema&show_icons=true&theme=radical) -->
 
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:heygema@pm.me)
 [![Linkedin: heygema](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heygema/)
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heygema)
 [![reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/heygema)
