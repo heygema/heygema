@@ -10,7 +10,7 @@
 🔭 I'm doing Software Engineering/Programming, and like to work on things<br>
      with  __[TypeScript](https://www.typescriptlang.org/)__, __[React](https://reactjs.org/)__, __[React Native](https://reactnative.dev/)__, and __[NodeJS](https://nodejs.org/)__.
  
-❤️❤️❤️:<br />
+❤️❤️❤️ <b>:</b><br />
 
 ![javavscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
