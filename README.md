@@ -27,7 +27,7 @@
 <p align="left">
  📫 to reach me: <a href="mailto:heygema@pm.me">heygema@pm.me</a> <br>
  🌐 website: <a href="https://gema.monster" target="_blank">gema.monster</a> <br>
- 💰 I accept tokens on <a href="https://harmony.one" target="_blank">Harmony</a>: <b>one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm</b>, <a href="https://ethereum.org" target="_blank">Ethereum</a>: <b>0xa57e31BA99a010BbafE08F58E46a520bc9fF82E4</b>
+ 💰 I accept tokens on <a href="https://harmony.one" target="_blank">Harmony</a>: <b>one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm</b>, <a href="https://ethereum.org" target="_blank">Ethereum</a>: <b>0xa57e31BA99a010BbafE08F58E46a520bc9fF82E4</b>, <a href="https://cardano.org" target="_blank">Cardano</a> <b>addr1qyg59kk8ejtq5x0srngk839fh0g8he0hedthq46ctnznp57hzhdl8xgsqkcr22cqrksatuxjanukusfvwq5fvlnl5a0qypzrga</b>
  </p>
 
 
