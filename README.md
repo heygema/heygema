@@ -25,8 +25,8 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="left">
- 📫 to reach me: <b><a href="mailto:heygema@pm.me">heygema@pm.me</a></b> <br>
- 🌐 website: <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
+ 📫 <b><a href="mailto:heygema@pm.me">heygema@pm.me</a></b> <br>
+ 🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
  💰 I accept tokens on <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm, <a href="https://ethereum.org" target="_blank">Ethereum</a>: 0xa57e31BA99a010BbafE08F58E46a520bc9fF82E4, <a href="https://cardano.org" target="_blank">Cardano</a>: addr1qyg59kk8ejtq5x0srngk839fh0g8he0hedthq46ctnznp57hzhdl8xgsqkcr22cqrksatuxjanukusfvwq5fvlnl5a0qypzrga
   </b>
  </p>
