@@ -29,7 +29,7 @@
 <p align="left">
  📫 <b><a href="mailto:heygema@pm.me">heygema@pm.me</a></b> <br>
  🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
- 💰 I ❤️ my tokens on <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm & <a href="https://solana.com" target="_blank">Solana</a>: Aw74pnkidHuqV3pkpUaNm32kj4yAFy88wsfEmBA7uRGr (gema.sol) <br>
+ 💰 <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm & <a href="https://solana.com" target="_blank">Solana</a>: Aw74pnkidHuqV3pkpUaNm32kj4yAFy88wsfEmBA7uRGr (gema.sol) <br>
   💀 <a target="_blank" href="https://explorer.solana.com/address/63ucB5oPnMk26uqE51VoiorJhcVHYn4zVS1w9ryqkdF">BONEWORLD#7436</a> <br>
   </b>
  </p>
