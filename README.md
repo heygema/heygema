@@ -30,9 +30,9 @@
  📫 <b><a href="mailto:heygema@pm.me">heygema@pm.me</a></b> <br>
  🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
  
-💰 <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>
-💰 <a href="https://solana.com" target="_blank">Solana</a>: Aw74pnkidHuqV3pkpUaNm32kj4yAFy88wsfEmBA7uRGr (gema.sol)<br>
-💰 <a href="https://ethereum.org" target="_blank">Ethereum</a>: 0xdd941e4C1b6CF6f4f690A0d23736757B048Aa1E2 <br> 
+<!--💰 <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>-->
+💰 <a href="https://solana.com" target="_blank">Solana</a>: gema.sol (Aw74pnkidHuqV3pkpUaNm32kj4yAFy88wsfEmBA7uRGr)<br>
+💰 <a href="https://ethereum.org" target="_blank">Ethereum</a>: 0xgema.eth (0xdd941e4C1b6CF6f4f690A0d23736757B048Aa1E2) <br> 
   </b>
  </p>
 
