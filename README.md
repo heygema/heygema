@@ -31,8 +31,8 @@
  🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
  
 <!--💰 <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>-->
-💰 <a href="https://solana.com" target="_blank">Solana</a>: gema.sol (9aPBRryNmrT2vPZguknzRVtG7hs6Vz7R2ahkuXz6dP9L)<br>
-💰 <a href="https://ethereum.org" target="_blank">Ethereum</a>: 0xgema.eth (0xdd941e4C1b6CF6f4f690A0d23736757B048Aa1E2) <br> 
+💰 <a href="https://matrica.io/gema" target="_blank">Solana</a>: gema.sol (9aPBRryNmrT2vPZguknzRVtG7hs6Vz7R2ahkuXz6dP9L)<br>
+💰 <a href="https://rainbow.me/0xgema.eth" target="_blank">Ethereum</a>: 0xgema.eth (0xdd941e4C1b6CF6f4f690A0d23736757B048Aa1E2) <br> 
   </b>
  </p>
 
