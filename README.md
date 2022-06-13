@@ -27,7 +27,7 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="left">
- 📫 <b><a href="mailto:heygema@pm.me">heygema@pm.me</a></b> <br>
+ 📫 <b><a href="mailto:0xgema@pm.me">0xgema@pm.me</a></b> <br>
  🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
  
 <!--💰 <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>-->
