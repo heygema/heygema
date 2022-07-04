@@ -1,5 +1,7 @@
 
-# <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> Hi, I'm Gema
+# <img width="50px" height="50px" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> Hi, I'm Gema
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Mobile+Dev;Frontend+Dev;&color=4AF626)](https://git.io/typing-svg)
 
 <p align="left">
   🍷 Pronouns: He/Him
