@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Mobile+Dev;Frontend+Dev;&color=4AF626)](https://git.io/typing-svg)
 
 <p align="left">
-  🍷 Pronouns: He/Him
+  💡 Pronouns: He/Him
 </p>
 
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
