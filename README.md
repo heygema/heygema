@@ -9,8 +9,7 @@
 
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
 
-🔭 I'm currently doing Software Engineering/Programming, and like to work on things<br>
-     with  __[TypeScript](https://www.typescriptlang.org/)__, __[React](https://reactjs.org/)__, __[React Native](https://reactnative.dev/)__, and __[NodeJS](https://nodejs.org/)__.
+🔭 I like UI/UX and perf enhancement. Welcome to my github.
 
 ***Tech Stack:***
 
