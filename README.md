@@ -9,7 +9,7 @@
 
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
 
-🔭 I like UI/UX and perf enhancement. A minimalist. Welcome to my github.
+🔭 I like UI/UX, a minimalist. Welcome to my github.
 
 ***Tech Stack:***
 
