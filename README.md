@@ -9,7 +9,7 @@
 
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
 
-🔭 I'm a Web Dev 👾⚡️, I like UI/UX, a minimalist. Welcome to my github.
+🔭 I'm a Web Dev 👾⚡️, I like UI/UX, a minimalist, all in for fun. Welcome to my github.
 
 ***Tech Stack:***
 
