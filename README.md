@@ -55,6 +55,7 @@
 [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heygema)
 [![reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/heygema)
 [![rss](https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://gema.monster/rss)
+[![@gema's Holopin board](https://holopin.me/gema)](https://holopin.io/@gema)
 
 PS:
 <br />
