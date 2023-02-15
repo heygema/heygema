@@ -32,10 +32,10 @@
  🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
  
 <!--💰 <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>-->
-🧧 <a href="https://solana.com/" target="_blank">Solana</a>: gema.sol (<a href="https://matrica.io/gema" target="_blank">9aPBRryNmrT2vPZguknzRVtG7hs6Vz7R2ahkuXz6dP9</a>)<br>
+<!-- 🧧 <a href="https://solana.com/" target="_blank">Solana</a>: gema.sol (<a href="https://matrica.io/gema" target="_blank">9aPBRryNmrT2vPZguknzRVtG7hs6Vz7R2ahkuXz6dP9</a>)<br>
 🧧 <a href="https://ethereum.org/en/" target="_blank">Ethereum</a>: 0xgema.eth (<a href="https://rainbow.me/0xgema.eth" target="_blank">0xdd941e4C1b6CF6f4f690A0d23736757B048Aa1E2</a>) <br> 
   </b>
- </p>
+ </p> -->
 
 
 
