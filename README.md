@@ -3,10 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Mobile+Dev;Frontend+Dev;&color=4AF626)](https://git.io/typing-svg)
 
-<p align="left">
-  ❓Pronouns: He/Him
-</p>
-
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
 
 <table cellspacing="10" cellpadding="10" border="0px">
@@ -43,8 +39,6 @@
 </div>
 -->
 
-
-
 <p align="left">
  📫 <b><a href="mailto:gema@duck.com">gema@duck.com</a></b> <br>
  🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> <br>
@@ -52,9 +46,8 @@
 <!--💰 <b><a href="https://harmony.one" target="_blank">Harmony</a>: one1fcv9heajwksqn0duew07jg4lsmgngetwj97rtm <br>-->
 <!-- 🧧 <a href="https://solana.com/" target="_blank">Solana</a>: gema.sol (<a href="https://matrica.io/gema" target="_blank">9aPBRryNmrT2vPZguknzRVtG7hs6Vz7R2ahkuXz6dP9</a>)<br>
 🧧 <a href="https://ethereum.org/en/" target="_blank">Ethereum</a>: 0xgema.eth (<a href="https://rainbow.me/0xgema.eth" target="_blank">0xdd941e4C1b6CF6f4f690A0d23736757B048Aa1E2</a>) <br> 
-  </b>
- </p> -->
-
+  </b> -->
+ </p> 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
@@ -65,8 +58,7 @@
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heygema&show_icons=true&theme=radical) -->
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=heygema&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=heygema&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 [![Linkedin: heygema](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heygema/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/heygema)
