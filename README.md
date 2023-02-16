@@ -9,7 +9,18 @@
 
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
 
-🔭 Web Dev 👾⚡️, I like UI/UX, minimalist. Welcome to my github.
+
+<div>
+🔭 Web Dev 👾⚡️
+❤️ UI/UX
+✨ Minimalist.
+🤝 Welcome to my github.
+</div>
+
+
+<div>
+<a href="https://app.daily.dev/gema"><img src="https://api.daily.dev/devcards/bc6c1848f3da4279abfefa57631cd0bc.png?r=6o7" width="400" alt="⚡️Gema Anggada's Dev Card"/></a>
+</div>
 
 ***Tech Stack:***
 
