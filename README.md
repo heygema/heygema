@@ -7,6 +7,11 @@
 
 <table cellspacing="10" cellpadding="10" border="0px">
 <tr>
+
+<td>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="400" alt="Gema's Dev Card"/></a>
+</td>
+
 <td>
 🔭 Web Dev, UI/UX, Minimalist. Welcome to my github.
 
@@ -26,9 +31,7 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 </td>
-<td>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="400" alt="Gema's Dev Card"/></a>
-</td>
+
 </tr>
 </table>
 
