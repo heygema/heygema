@@ -9,20 +9,12 @@
 
 <!-- ___tl;dr JS is 🔥___ **(Compile-To-Js)** -->
 
-
-<div>
+<table cellspacing="10" cellpadding="10" border="0px">
+<tr>
+<td>
 🔭 Web Dev, UI/UX, Minimalist. Welcome to my github.
-</div>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="400" alt="Gema's Dev Card"/></a>
-
-<!--
-<div>
-<a href="https://app.daily.dev/gema"><img src="https://api.daily.dev/devcards/bc6c1848f3da4279abfefa57631cd0bc.png?r=6o7" width="400" alt="⚡️Gema Anggada's Dev Card"/></a>
-</div>
--->
-
-***Tech Stack:***
+***💻 Tech Stack:***
 
 ![javavscript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,6 +29,21 @@
 ![threejs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+<td>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="400" alt="Gema's Dev Card"/></a>
+</td>
+</tr>
+</table>
+
+
+<!--
+<div>
+<a href="https://app.daily.dev/gema"><img src="https://api.daily.dev/devcards/bc6c1848f3da4279abfefa57631cd0bc.png?r=6o7" width="400" alt="⚡️Gema Anggada's Dev Card"/></a>
+</div>
+-->
+
+
 
 <p align="left">
  📫 <b><a href="mailto:gema@duck.com">gema@duck.com</a></b> <br>
