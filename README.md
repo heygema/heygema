@@ -9,7 +9,7 @@
 <tr>
 
 <td>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="400" alt="Gema's Dev Card"/></a>
+<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="400" alt="Gema's Dev Card"/></a>
 </td>
 
 <td>
