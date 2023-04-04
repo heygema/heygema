@@ -13,8 +13,6 @@
 </td>
 
 <td>
-🔭 Web Dev, UI/UX, Minimalist. Welcome to my github.
-
 <p align="left">
  📫 <b><a href="mailto:gema@duck.com">gema@duck.com</a></b> <br>
  🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> 
