@@ -50,7 +50,7 @@
   </b> -->
 
 
-<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="250" alt="Gema's Dev Card"/></a>
+<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="200" alt="Gema's Dev Card"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heygema&layout=compact&show_icons=true&theme=gruvbox&hide_rank=true&hide_title=true&count_private=true)
 
