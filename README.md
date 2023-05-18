@@ -8,9 +8,7 @@
 <table cellspacing="10" cellpadding="10" border="0px">
 <tr>
 
-<td>
-<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="400" alt="Gema's Dev Card"/></a>
-</td>
+
 
 <td>
 <p align="left">
@@ -39,7 +37,6 @@
 </tr>
 </table>
 
-
 <!--
 <div>
 <a href="https://app.daily.dev/gema"><img src="https://api.daily.dev/devcards/bc6c1848f3da4279abfefa57631cd0bc.png?r=6o7" width="400" alt="⚡️Gema Anggada's Dev Card"/></a>
@@ -53,10 +50,9 @@
   </b> -->
 
 
-
+<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="250" alt="Gema's Dev Card"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heygema&layout=compact&show_icons=true&theme=gruvbox&hide_rank=true&hide_title=true&count_private=true)
-
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=heygema&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
