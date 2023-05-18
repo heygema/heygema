@@ -53,7 +53,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heygema&layout=compact&show_icons=true&theme=gruvbox&hide_rank=true&hide_title=true&count_private=true)
-<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="700" alt="Gema's Dev Card"/></a>
+<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="600" alt="Gema's Dev Card"/></a>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=heygema&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
