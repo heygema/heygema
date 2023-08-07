@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Mobile+Dev;Frontend+Dev;&color=4AF626)](https://git.io/typing-svg)
 
-<a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="300" alt="Gema's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/gema"><img src="https://github.com/heygema/heygema/blob/master/devcard.svg" width="300" alt="Gema's Dev Card"/></a> -->
 
 <table cellspacing="10" cellpadding="10" border="0px">
 <tr>
