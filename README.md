@@ -51,8 +51,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=heygema&layout=compact&show_icons=true&theme=cobalt&hide_rank=true&hide_title=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=heygema&layout=compact&show_icons=true&theme=graywhite&hide_rank=true&hide_title=true&count_private=true)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=heygema&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
