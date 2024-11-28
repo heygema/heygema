@@ -60,7 +60,7 @@
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=heygema&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[![@gema's Holopin board](https://holopin.me/gema)](https://holopin.io/@gema)
+<!-- [![@gema's Holopin board](https://holopin.me/gema)](https://holopin.io/@gema) -->
 
 [![Linkedin: heygema](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heygema/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/heygema)
