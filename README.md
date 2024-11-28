@@ -12,8 +12,8 @@
 
 <td>
 <p align="left">
- 📫 <b><a href="mailto:gema@keemail.me">gema@keemail.me</a></b> <br>
- 🌐 <b><a href="https://gema.monster" target="_blank">gema.monster</a></b> 
+ 📫 <b><a href="mailto:gema@keemail.me">0xgema@proton.me</a></b> <br>
+ 🌐 <b><a href="https://0xgema.site" target="_blank">0xgema.site</a></b> 
 </p> 
  
 
