@@ -12,7 +12,7 @@
 
 <td>
 <p align="left">
- 📫 <b><a href="mailto:gema@keemail.me">0xgema@proton.me</a></b> <br>
+ 📫 <b><a href="mailto:gema@keemail.me">Mail me</a></b> <br>
  🌐 <b><a href="https://0xgema.site" target="_blank">0xgema.site</a></b> 
 </p> 
  
