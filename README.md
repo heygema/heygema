@@ -1,5 +1,5 @@
 
-# <img width="50px" height="50px" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> Hi, Welcome to my space
+# <img width="50px" height="50px" src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> Hi, Welcome to my repos
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Mobile+Dev;Frontend+Dev;&color=4AF626)](https://git.io/typing-svg)
 
@@ -50,9 +50,10 @@
   </b> -->
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heygema&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=heygema&layout=compact&show_icons=true&theme=synthwave&hide_rank=true&hide_title=true&count_private=true)
+-->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=heygema&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
